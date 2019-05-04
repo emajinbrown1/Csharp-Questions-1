@@ -74,7 +74,7 @@
 ### *The difference between struct and class is that structs are value types and classes are reference types*
 
 ## **What is the difference between continue and break statements?** ##
-### *The difference between continue and break is that continue is used when you want to skip one or more statements in the loop and break is when the loop is exited immediately *
+### *The difference between continue and break is that continue is used when you want to skip one or more statements in the loop and break is when the loop is exited immediately*
 
 ## **What is this and how is it used?**
 ### *This is used to refer to the current instance of the class*
